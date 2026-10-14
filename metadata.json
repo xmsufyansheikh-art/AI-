@@ -1,0 +1,6 @@
+{
+  "name": "Gulabo AI",
+  "description": "Advanced Multilingual AI Assistant with voice interaction, real-time translation, vision & scanner, AI image and video studio, and PDF/document export in dark blue aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
